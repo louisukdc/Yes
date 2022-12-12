@@ -1,0 +1,486 @@
+.komang{
+  min-height: 4rem;
+  min-width: 4rem;
+  background-position-x: 59%;
+  margin-left: 91%;
+  margin-right: 2%;
+  margin-top: 0.2em;
+  display: table;
+  width: 4%;
+  height: revert;
+  padding-top: 0%;
+  padding-bottom: 0%;
+  padding-left: 0%;
+  padding-right: 0%;
+  border-radius: 50%;
+  background-color: #fff;
+}
+
+
+.komang2{
+  min-height: 4rem;
+  min-width: 4rem;
+  background-position-x: 59%;
+  margin-left: 91%;
+  margin-right: 2%;
+  margin-top: 0.2em;
+  display: table;
+  width: 4%;
+  height: revert;
+  padding-top: 0%;
+  padding-bottom: 0%;
+  padding-left: 0%;
+  padding-right: 0%;
+  border-radius: 50%;
+  background-color: #fff;
+}
+
+.homeplace{
+  margin-left: 22%;
+  min-width: 100px;
+  max-height: 100px;
+}
+
+.homemap{
+  margin-left: 20%;
+  min-width: 100px;
+}
+
+.factoryplace{
+  margin-left: 62%;
+  margin-top: -15%;
+}
+
+.factorymap{
+  margin-left: 60%;
+  margin-top: 0%;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #603507;
+  size: 10vh;
+}
+
+.topnav a {
+  float: left;
+  color: #ddd;
+  text-align: center;
+  padding: 20px 17px;
+  border-radius: 20rem;
+  text-decoration: none;
+  font-size: 17px;
+  margin-left: 0.5rem;
+  margin-top: 0.2rem;
+  margin-bottom: 0.2rem;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+.topnav a:hover {
+  background-color: #c9fb90;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #00830b;
+  color: white;
+}
+
+h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
+  margin-top: 0;
+  font-size: 2rem;
+  margin-bottom: 1.5rem;
+  font-weight: 1000;
+  line-height: 1.2;
+}
+
+.bottom{
+  margin-top: 20%;
+  margin-bottom: 20%;
+}
+
+
+/* .socialg{
+  margin-bottom: 0%;
+  border: 10%;
+  border-width: 10%;
+  font-size: 4rem;
+  font-family: serif;
+  color: #004883;
+  padding-top: 15%;
+  min-height: 6rem;
+  min-width: 4rem;
+  margin-left: 17%;
+  margin-top: 5%;
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../assets/img/icons8-instagram-48.svg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+} */
+
+
+.louis{
+  min-height: 12rem;
+  min-width: 12rem;
+  margin-left: 48%;
+  margin-right: 0%;
+  margin-top: 0em;
+  display: table;
+  width: 4%;
+  height: revert;
+  padding-top: 0%;
+  padding-bottom: 0%;
+  padding-left: 0%;
+  padding-right: 0%;
+  border-radius: 50%;
+  background-color: #fff;
+}
+
+.hex {
+  width: 90%;
+  border-color: #000;
+  border-width: 10px;
+  border:1px none black;
+  margin-left: 5%;
+}
+
+.about{
+  border: 10%;
+  border-width: 10%;
+  font-size: 4rem;
+  font-family: serif;
+  color: #004883;
+  padding-top: 5%;
+  min-height: 6rem;
+  min-width: 4rem;
+  margin-left: 44%;
+  margin-top: -5%;
+}
+
+.louismax{
+  margin-top: 5%;
+  font-size: 6rem;
+  text-align: center;
+}
+
+.thisweb{
+  margin-top: 2%;
+  text-align: center;
+  font-size: 5rem;
+}
+
+
+.forfeedback {
+  min-height: 30rem;
+  min-width: 10rem;
+  position: relative;
+  text-align: left;
+  display: table;
+  width: 100%;
+  height: 100%;
+  margin-top: 0%;
+  margin-right: 40%;
+  margin-left: 0%;
+  margin-bottom: 0%;
+  padding-top: 8rem;
+  padding-left: 20%;
+  padding-bottom: 8rem;
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../assets/img/Banner.png");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* .video {
+  width: 100%; 
+  height: 200%;
+} */
+
+.feedback3 {
+  position: relative;
+  text-align: left;
+  display: table;
+  width: 100%;
+  height: 100%;
+  padding-left: 0%;
+  background-color: #ebddc7;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.feedback2 {
+  position: relative;
+  text-align: left;
+  display: table;
+  width: 100%;
+  height: 100%;
+  padding-left: 30%;
+  background-color: #ebddc7;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.forindex {
+  min-height: 30rem;
+  min-width: 10rem;
+  position: relative;
+  text-align: left;
+  display: table;
+  width: 100%;
+  height: 100%;
+  margin-top: 0%;
+  margin-right: 40%;
+  margin-left: 0%;
+  margin-bottom: 10%;
+  padding-top: 18rem;
+  padding-bottom: 18rem;
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../assets/img/Banner.png");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* .forindex2 {
+  min-height: 5rem;
+  min-width: 15rem;
+  position: relative;
+  text-align: left;
+  display: table;
+  width: 43%;
+  height: revert;
+  margin-top: 5%;
+  margin-right: 40%;
+  margin-left: 20%;
+  margin-bottom: 10%;
+  padding-top: 28rem;
+  padding-bottom: 8rem;
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../assets/img/foto1.png");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+} */
+
+.contact{
+  min-height: 5rem;
+  min-width: 15rem;
+  position: center;
+  text-align: left;
+  display: table;
+  width: 100%;
+  padding-top: 1%;
+  height: revert;
+  padding-left: 40%;
+background-color: #603507;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  }
+
+  .contact2{
+    min-height: 1rem;
+    min-width: 1rem;
+    color: #ddd;
+    position: center;
+    text-align: left;
+    display: table;
+    width: 100%;
+    height: revert;
+    padding-left: 30%;
+  background-color: #603507;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+
+.menu{
+  text-align: center;
+  font-size: 40pt;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin-top: 2em;
+  margin-bottom: 5em;
+ color: rgb(240, 143, 16);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* .mb-7{
+  min-height: 12rem;
+  min-width: 12rem;
+  background-position-x: 59%;
+  margin-left: 31%;
+  margin-right: 32%;
+  margin-top: 1em;
+  display: table;
+  width: 34%;
+  height: 30%;
+  padding-top: 0%;
+  padding-bottom: 0%;
+  padding-left: 0%;
+  padding-right: 0%;
+  border-radius: 30%;
+  background-color: rgb(235 221 199);
+} */
+
+.mb-6{
+  min-height: 12rem;
+  min-width: 12rem;
+  background-position-x: 59%;
+  margin-left: 34%;
+  margin-right: 32%;
+  margin-top: 1em;
+  display: table;
+  width: 34%;
+  height: 30%;
+  padding-top: 0%;
+  padding-bottom: 0%;
+  padding-left: 0%;
+  padding-right: 0%;
+  border-radius: 30%;
+  background-color: rgb(235 221 199);
+}
+
+.mb-5{
+  min-height: 12rem;
+  min-width: 12rem;
+  background-position-x: 59%;
+  margin-left: 31%;
+  margin-right: 32%;
+  margin-top: -41em;
+  display: table;
+  width: 34%;
+  height: 30%;
+  padding-top: 0%;
+  padding-bottom: 0%;
+  padding-left: 0%;
+  padding-right: 0%;
+  border-radius: 30%;
+  background-color: rgb(235 221 199);
+}
+
+
+.mb-4{
+  min-height: 12rem;
+  min-width: 12rem;
+  background-position-x: 59%;
+  margin-left: 61%;
+  margin-right: 2%;
+  margin-top: 10em;
+  display: table;
+  width: 4%;
+  height: 20%;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  padding-left: 5%;
+  padding-right: 5%;
+  border-radius: 30%;
+  background-color: rgb(235 221 199);
+}
+
+.foraboutme {
+  min-height: 30rem;
+  min-width: 10rem;
+  position: relative;
+  text-align: left;
+  display: table;
+  width: 100%;
+  height: 100%;
+  margin-top: 0%;
+  margin-right: 40%;
+  margin-left: 0%;
+  margin-bottom: 0%;
+  padding-top: 18rem;
+  padding-bottom: 8rem;
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../assets/img/Banner.png");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.formap {
+  min-height: 30rem;
+  min-width: 10rem;
+  position: relative;
+  text-align: left;
+  display: table;
+  width: 100%;
+  height: 100%;
+  margin-top: 0%;
+  margin-right: 40%;
+  margin-left: 0%;
+  margin-bottom: 0%;
+  padding-top: 8rem;
+  padding-bottom: 8rem;
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../assets/img/Banner.png");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+.me {
+  min-height: 15rem;
+  min-width: 25rem;
+  text-align: justify;
+  font-family: sans-serif;
+  font-size: 120%;
+  padding-top: 2%;
+  padding-left: 5%;
+  padding-right: 5%;
+  /* margin-left: 0%;
+  margin-right: 10%;
+  margin-top: 2%; */
+  border-radius: %;
+  background-color: #fff;
+}
+
+.slider {
+  width: 500px;
+  height: 300px;
+  background-color: yellow;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0px;
+  text-align: center;
+  overflow: hidden;
+}
+.image-container {
+  width: 1500px;
+  background-color: pink;
+  height: 300px;
+  clear: both;
+  position: relative;
+  -webkit-transition: left 2s;
+  -moz-transition: left 2s;
+  -o-transition: left 2s;
+  transition: left 2s;
+}
+.slide {
+  float: left;
+  margin: 0px;
+  padding: 0px;
+  position: relative;
+}
+#slide-1:target ~ .image-container {
+  left: 0px;
+}
+#slide-2:target ~ .image-container {
+  left: -500px;
+}
+#slide-3:target ~ .image-container {
+  left: -1000px;
+}
+.buttons {
+  position: relative;
+  top: -20px;
+}
+.buttons a {
+  display: inline-block;
+  height: 15px;
+  width: 15px;
+  border-radius: 50px;
+  background-color: lightgreen;
+}
